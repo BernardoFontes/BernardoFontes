@@ -3,7 +3,7 @@
 <img src="https://img.icons8.com/color/48/000000/brazil.png"/>
 
 <a href="https://www.linkedin.com/in/bernardo-fontes-/">
-  <img src="https://img.icons8.com/doodle/40/000000/linkedin-new.png"/>
+  <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png"/>
 </a>
 <a href="https://www.instagram.com/sw_berna/">
   <img src="https://img.icons8.com/doodle/40/000000/instagram-new.png"/>
