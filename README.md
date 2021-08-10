@@ -36,6 +36,12 @@ Meu nome é Bernardo Fontes, moro em São Paulo/SP, tenho 24 anos, sou estudante
     </td>
     <td>
       <a href="">
+        <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+        <p>React</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
         <img src="https://img.icons8.com/color/40/000000/redux.png"/>
         <p>Redux</p>
       </a>
@@ -50,6 +56,24 @@ Meu nome é Bernardo Fontes, moro em São Paulo/SP, tenho 24 anos, sou estudante
       <a href="">
         <img src="https://img.icons8.com/wired/40/000000/merge-git.png"/>
         <p>GIT</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/nolan/96/mysql.png"/>
+        <p>MySQL</p>
+      </a>
+    </td>
+    <td>
+      <a href="">
+        <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+        <p>MongoDB</p>
+      </a>
+    </td>
+     <td>
+      <a href="">
+        <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+        <p>Node.js</p>
       </a>
     </td>
   </tr>
