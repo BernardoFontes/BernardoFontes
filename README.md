@@ -36,7 +36,7 @@ Meu nome é Bernardo Fontes, moro em São Paulo/SP, tenho 24 anos, sou estudante
     </td>
     <td>
       <a href="">
-        <img src="https://img.icons8.com/plasticine/100/000000/react.png"/>
+        <img src="https://img.icons8.com/plasticine/40/000000/react.png"/>
         <p>React</p>
       </a>
     </td>
