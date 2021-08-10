@@ -60,13 +60,13 @@ Meu nome é Bernardo Fontes, moro em São Paulo/SP, tenho 24 anos, sou estudante
     </td>
     <td>
       <a href="">
-        <img src="https://img.icons8.com/nolan/96/mysql.png"/>
+        <img src="https://img.icons8.com/nolan/48/mysql.png"/>
         <p>MySQL</p>
       </a>
     </td>
     <td>
       <a href="">
-        <img src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+        <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
         <p>MongoDB</p>
       </a>
     </td>
